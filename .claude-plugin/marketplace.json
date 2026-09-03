@@ -44,6 +44,29 @@
       ]
     },
     {
+      "name": "great-cto",
+      "source": {
+        "source": "github",
+        "repo": "avelikiy/great_cto"
+      },
+      "description": "Runs Claude Code as a pipeline of 71 specialist agents — architecture, product, implementation, QA, security, deploy — where an independent model checks each stage before the next begins, and human gates sit on whatever is expensive to undo.",
+      "version": "3.22.0",
+      "author": {
+        "name": "Alexander Velikiy",
+        "url": "https://github.com/avelikiy"
+      },
+      "category": "Workflow Orchestration",
+      "homepage": "https://greatcto.systems",
+      "keywords": [
+        "orchestration",
+        "pipeline",
+        "subagents",
+        "code-review",
+        "gates",
+        "cto"
+      ]
+    },
+    {
       "name": "lyra",
       "source": "./plugins/lyra",
       "description": "Lyra - a master-level AI prompt optimization specialist.",
